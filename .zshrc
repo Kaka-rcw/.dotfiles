@@ -25,7 +25,7 @@ export EZA_COLORS="~/.config/vivid/eza/dracula.yml"
 alias ls="eza --icons=always" # List files in current directory
 alias cd="z" # open directory(zoxide)
 alias o="open ." # Open the current directory in Finder
-
+alias gemini="npx https://github.com/google-gemini/gemini-cli" #gemini cli
 # ----------------------
 # Git Aliases
 # ----------------------
