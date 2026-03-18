@@ -35,6 +35,12 @@ alias gpsh='git push'
 alias gss='git status -s'
 alias gs='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
 
+# ----------------------
+# Cpp Aliases
+# ----------------------
+alias cppbuild= "g++ -std=c++11 -O2 -Wall";
+
+
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
