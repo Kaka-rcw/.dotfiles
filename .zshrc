@@ -38,7 +38,7 @@ alias gs='echo ""; echo "*********************************************"; echo -e
 # ----------------------
 # Cpp Aliases
 # ----------------------
-alias cppbuild= "g++ -std=c++11 -O2 -Wall";
+alias cppbuild= "g++ -std=c++11 -O2 -Wall"
 
 
 export NVM_DIR="$HOME/.nvm"
